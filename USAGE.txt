@@ -1,0 +1,2 @@
+Compile: $ mvn clean compile package assembly:assembly
+Run: java -jar target/RiotTest-0.1-jar-with-dependencies.jar ../key.txt rbesenczi
